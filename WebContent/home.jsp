@@ -52,11 +52,11 @@
 		</div>
 		<div class="form-group">
 			<div class="checkbox">
-				<label> <input name= "deposit" type="checkbox" value="">Deposit
+				<label> <input name= "deposit" type="radio" value="">Deposit
 				</label>
 			</div>
 			<div class="checkbox">
-				<label> <input name= "withdraw" type="checkbox" value="">Withdraw
+				<label> <input name= "withdraw" type="radio" value="">Withdraw
 				</label>
 			</div>
 		</div>
